@@ -1,0 +1,4 @@
+Salary Alfredo 1000
+Hourly Juan 40 50
+Hourly Steven 50 50
+Salourly Peter 1000 10 40
